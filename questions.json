@@ -1,0 +1,417 @@
+[
+ 
+  {
+    "questionNo": "Q1.",
+    "question": "In the word 'moon', how is 'oo' pronounced?",
+    "Q_sound": "./sound/moon.mp3",
+    "options": [
+      {
+        "text": "🔊 Like in 'soon'",
+        "audio": "./sound/soon.mp3"
+      },
+      {
+        "text": "🔊 Like in 'door'",
+        "audio": "./sound/door.mp3"
+      },
+      {
+        "text": "🔊 Like in 'floor'",
+        "audio": "./sound/floor.mp3"
+      }
+    ],
+    "secondImg":"./images/2.png",
+    "correct": 0,
+    "explanation": "In 'moon', the 'oo' makes a long sound, similar to the 'oo' in 'soon'. The double 'O' makes a long /O/ sound."
+  },
+
+  {
+    "questionNo": "Q2.",
+    "question": "Which word has the same 'oo' sound as 'look' and rhymes with 'look'?",
+    "Q_sound": "./sound/look.mp3",
+    "options": [
+      {
+        "text": "🔊 moon",
+        "audio": "./sound/moon.mp3"
+      },
+      {
+        "text": "🔊 book",
+        "audio": "./sound/book.mp3"
+      },
+      {
+        "text": "🔊 cool",
+        "audio": "./sound/cool.mp3"
+      }
+    ],
+    "secondImg":"./images/4.png",
+    "correct": 1,
+    "explanation": "'Book' and 'look' have the same short 'oo' sound. Both of these words rhyme and others don’t."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Which word has a different 'oo' sound from the others?",
+    "Q_sound": "",
+    "options": [
+      {
+        "text": "🔊 boot",
+        "audio": "./sound/boot.mp3"
+      },
+      {
+        "text": "🔊 root",
+        "audio": "./sound/root.mp3"
+      },
+      {
+        "text": "🔊 foot",
+        "audio": "./sound/foot.mp3"
+      }
+    ],
+    "correct": 2,
+    "explanation": "'Foot' has a short 'oo' sound, while 'boot' and 'root' have a long 'oo' sound."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Which word matches the picture?",
+    "Q_sound": "",
+    "options": [
+      {
+        "text": "Road",
+        "audio": ""
+      },
+      {
+        "text": "Rod",
+        "audio": ""
+      },
+      {
+        "text": "Rode",
+        "audio": ""
+      }
+    ],
+    "correct": 0,
+    "secondImg":"./images/6.png",
+    "explanation": "The correct word is 'Road.' In vowel teams that start with 'O,' the letter 'O' says its name. It makes a long /O/ sound. The other vowel is silent."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Which word matches the picture?",
+    "Q_sound": "",
+    "options": [
+      {
+        "text": "Not",
+        "audio": ""
+      },
+      {
+        "text": "Note",
+        "audio": ""
+      },
+      {
+        "text": "Nod",
+        "audio": ""
+      }
+    ],
+    "secondImg":"./images/7.png",
+    "correct": 1,
+    "explanation": "The correct word is 'Note.' When the letter 'O' is followed by a consonant and a silent 'E,' the letter 'O' says its name. It makes a long /O/ sound."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Which word matches the picture?",
+    "Q_sound": "",
+    "options": [
+      {
+        "text": "Glob",
+        "audio": ""
+      },
+      {
+        "text": "Gloab",
+        "audio": ""
+      },
+      {
+        "text": "Globe",
+        "audio": ""
+      }
+    ],
+    "correct": 2,
+    "secondImg":"./images/8.png",
+    "explanation": "The correct word is 'Globe.' When the letter 'O' is followed by a consonant and a silent 'E,' the letter 'O' says its name. It makes a long /O/ sound."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Which word matches the picture?",
+    "Q_sound": "",
+    "options": [
+      {
+        "text": "Dor",
+        "audio": ""
+      },
+      {
+        "text": "Door",
+        "audio": ""
+      },
+      {
+        "text": "Doar",
+        "audio": ""
+      }
+    ],
+    "correct": 1,
+    "secondImg":"./images/9.png",
+    "explanation": "The correct word is 'Door.' It makes a long /OO/ sound, like in the word 'Floor.'"
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Which word matches the picture?",
+    "Q_sound": "",
+    "options": [
+      {
+        "text": "Book",
+        "audio": ""
+      },
+      {
+        "text": "Buk",
+        "audio": ""
+      },
+      {
+        "text": "Bok",
+        "audio": ""
+      }
+    ],
+    "correct": 0,
+    "secondImg":"./images/10.png",
+    "explanation": "The correct word is 'Book.' It makes a short /OO/ sound, like in the words 'Look' or 'Took.'"
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "What did Lola see inside the hidden room?",
+    "Q_sound": "",
+    "options": [
+      {
+        "text": "A treasure chest",
+        "audio": ""
+      },
+      {
+        "text": "A table and chairs",
+        "audio": ""
+      },
+      {
+        "text": "Cool glowing lights and a silver book",
+        "audio": ""
+      },
+      {
+        "text": "A sleeping dragon",
+        "audio": ""
+      }
+    ],
+    "correct": 2,
+    "explanation": "When Lola stepped inside, she saw 'a room filled with cool glowing lights' and 'a book made of silver.' This is clearly described in the passage."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "What was the Book of Secrets supposed to help Lola find?",
+    "Q_sound": "",
+    "options": [
+      {
+        "text": "Hidden jewels in the forest",
+        "audio": ""
+      },
+      {
+        "text": "A hidden castle",
+        "audio": ""
+      },
+      {
+        "text": "The hidden treasures of the moon",
+        "audio": ""
+      },
+      {
+        "text": "A magical sword",
+        "audio": ""
+      }
+    ],
+    "correct": 2,
+    "explanation": "The owl told Lola that the 'Book of Secrets... will show you the way to the hidden treasures of the moon.' This is the main goal of her adventure."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "What did Lola and the owl find along the way during their adventure?",
+    "Q_sound": "",
+    "options": [
+      {
+        "text": "A hidden castle",
+        "audio": ""
+      },
+      {
+        "text": "A room full of magical tools and a pool of gold",
+        "audio": ""
+      },
+      {
+        "text": "A forest of talking animals",
+        "audio": ""
+      },
+      {
+        "text": "A mountain made of ice",
+        "audio": ""
+      }
+    ],
+    "correct": 1,
+    "explanation": "As Lola and the owl flew on their adventure, they 'found a pool of gold and a room full of magical tools,' which shows the exciting discoveries they made."
+  },
+  
+    {
+      "questionNo": "Q12.",
+      "question": "Choose the correct spelling:",
+      "Q_sound": "./sound/bicycle.mp3",
+      "options": [
+        {
+          "text": "Bicycle",
+          "audio": ""
+        },
+        {
+          "text": "Bicykle",
+          "audio": ""
+        },
+        {
+          "text": "Bicicle",
+          "audio": ""
+        }
+      ],
+      "correct": 0,
+      
+    "secondImg":"./images/13.png",
+      "explanation": "The correct spelling is 'B-I-C-Y-C-L-E.' It is a vehicle with two wheels, which you sit on and ride by moving your legs."
+    },
+    {
+      "questionNo": "Q13.",
+      "question": "Choose the correct spelling:",
+      "Q_sound": "./sound/motorcycle.mp3",
+      "options": [
+        {
+          "text": "Motarcycle",
+          "audio": ""
+        },
+        {
+          "text": "Motercycle",
+          "audio": ""
+        },
+        {
+          "text": "Motorcycle",
+          "audio": ""
+        }
+      ],
+      "correct": 2,
+      
+    "secondImg":"./images/14.png",
+      "explanation": "The correct spelling is 'M-O-T-O-R-C-Y-C-L-E.' A motorcycle is a vehicle with two wheels that moves fast and is powered by an engine."
+    },
+    {
+      "questionNo": "Q14.",
+      "question": "Hear the word and choose the correct spelling: ",
+      "Q_sound": "./sound/boat.mp3",
+      "options": [
+        {
+          "text": "Boat",
+          "audio": ""
+        },
+        {
+          "text": "Bot",
+          "audio": ""
+        },
+        {
+          "text": "Boot",
+          "audio": ""
+        }
+      ],
+      
+    "secondImg":"./images/16.png",
+      "correct": 0,
+      "explanation": "The correct word is 'Boat.' In vowel teams that start with 'O,' the letter 'O' says its name. It makes a long /O/ sound. The other vowel is silent."
+    },
+    {
+      "questionNo": "Q15.",
+      "question": "Hear the word and choose the correct spelling:",
+      "Q_sound": "./sound/cool.mp3",
+      "options": [
+        {
+          "text": "Coal",
+          "audio": ""
+        },
+        {
+          "text": "Cool",
+          "audio": ""
+        },
+        {
+          "text": "Cola",
+          "audio": ""
+        }
+      ],
+      
+    "secondImg":"./images/16.png",
+      "correct": 1,
+      "explanation": "The correct word is 'Cool.' It makes the long /OO/ sound as in the words 'Fool' and 'School.'"
+    },
+    {
+      "questionNo": "Q16.",
+      "question": "Hear the word and choose the correct spelling:",
+      "Q_sound": "./sound/pot.mp3",
+      "options": [
+        {
+          "text": "Pot",
+          "audio": ""
+        },
+        {
+          "text": "Pawt",
+          "audio": ""
+        },
+        {
+          "text": "Put",
+          "audio": ""
+        }
+      ],
+      
+    "secondImg":"./images/17.png",
+      "correct": 0,
+      "explanation": "The correct word is 'Pot.' When the letter 'O' is followed just by consonants, 'O' does not say its name. It makes an 'aw' sound."
+    },
+    {
+      "questionNo": "Q17.",
+      "question": "Hear the word and choose the correct spelling:",
+      "Q_sound": "./sound/flood.mp3",
+      "options": [
+        {
+          "text": "Flud",
+          "audio": ""
+        },
+        {
+          "text": "Flod",
+          "audio": ""
+        },
+        {
+          "text": "Flood",
+          "audio": ""
+        }
+      ],
+      
+    "secondImg":"./images/18.png",
+      "correct": 2,
+      "explanation": "The correct word is 'Flood.' It makes the /uh/ sound with the double 'O.' It sounds the same as in 'Blood.'"
+    },
+    {
+      "questionNo": "Q18.",
+      "question": "Hear the word and choose the correct spelling:",
+      "Q_sound": "./sound/pool.mp3",
+      "options": [
+        {
+          "text": "Pole",
+          "audio": ""
+        },
+        {
+          "text": "Pool",
+          "audio": ""
+        },
+        {
+          "text": "Full",
+          "audio": ""
+        }
+      ],
+      
+    "secondImg":"./images/19.png",
+      "correct": 1,
+      "explanation": "The correct word is 'Pool.' It makes the long /OO/ sound as in 'Fool' or 'School.'"
+    }
+  ]
+  

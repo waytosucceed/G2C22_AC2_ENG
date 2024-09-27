@@ -1,0 +1,38 @@
+[
+  {
+    "questionNo": "Q19.",
+    "question": "Which word has the same 'o' sound as 'hot'?",
+    
+    "optionsImages": [
+      "./images/option/1.jpg",
+      "./images/option/2.jpg",
+      "./images/option/3.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "./sound/cool.mp3",
+      "./sound/dog.mp3",
+      "./sound/school.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Which word has a different 'o' sound from the others?",
+    
+    "optionsImages": [
+      "./images/option/4.jpg",
+      "./images/option/5.jpg",
+      "./images/option/6.jpg",
+      "./images/option/7.jpg"
+    ],
+    "correct": 3,
+    "optionsAudio": [
+      "./sound/pot.mp3",
+      "./sound/lot.mp3",
+      "./sound/cot.mp3",
+      "./sound/boat.mp3"
+    ]
+  }
+      
+  ]
+  
